@@ -13,7 +13,7 @@ proc-macro2 = { version = "1.0.63", features = ["span-locations"] }
 ungrammar = "1.14.9"
 walkdir = "2.3.2"
 ureq = "2.4.0"
-git2 = { version = "0.17.1", default-features = false }
+git2 = { version = "0.21.0", default-features = false }
 filetime = "0.2.15"
 case = "1.0.0"
 pulldown-cmark = { version = "0.9", default-features = false, optional = true }
